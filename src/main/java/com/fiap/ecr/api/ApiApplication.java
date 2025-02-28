@@ -1,4 +1,4 @@
-package com.fiap.ecr.api;
+package com.fiap.ecr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
